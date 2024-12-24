@@ -1,6 +1,6 @@
 # index-demo
 This is my first git repository.
 <br>
-Author-Brijesh Sahu
+Author
 <br>
 this is para
